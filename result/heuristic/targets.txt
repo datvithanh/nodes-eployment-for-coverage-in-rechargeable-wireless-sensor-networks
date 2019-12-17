@@ -1,0 +1,15 @@
+data/targets/sr5_not9.json 10
+data/targets/sr5_not18.json 13
+data/targets/sr5_not27.json 14
+data/targets/sr5_not36.json 19
+data/targets/sr5_not45.json 22
+data/targets/sr5_not54.json 22
+data/targets/sr5_not63.json 23
+data/targets/sr5_not72.json 23
+data/targets/sr5_not81.json 25
+data/targets/sr5_not90.json 23
+data/targets/sr5_not99.json 26
+data/targets/sr5_not108.json 28
+data/targets/sr5_not117.json 27
+data/targets/sr5_not126.json 28
+data/targets/sr5_not135.json 28

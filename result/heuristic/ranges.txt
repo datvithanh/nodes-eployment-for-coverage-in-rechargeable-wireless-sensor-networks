@@ -1,0 +1,13 @@
+data/ranges/sr3_not63.json 52
+data/ranges/sr4_not63.json 36
+data/ranges/sr5_not63.json 24
+data/ranges/sr6_not63.json 22
+data/ranges/sr7_not63.json 17
+data/ranges/sr8_not63.json 13
+data/ranges/sr9_not63.json 11
+data/ranges/sr10_not63.json 10
+data/ranges/sr11_not63.json 10
+data/ranges/sr12_not63.json 9
+data/ranges/sr13_not63.json 9
+data/ranges/sr14_not63.json 8
+data/ranges/sr15_not63.json 6
